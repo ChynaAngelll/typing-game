@@ -7,6 +7,15 @@ const settingsButton = document.getElementById("settings-btn");
 const settings = document.getElementById("settings");
 const settingsForm = document.getElementById("settings-form");
 const difficultySelect = document.getElementById("difficulty");
+const word = document.getElementById("word");
+const text = document.getElementById("text");
+const scoreElement = document.getElementById("score");
+const timeElement = document.getElementById("time");
+const endgameElement = document.getElementById("end-game-container");
+const settingsButton = document.getElementById("settings-btn");
+const settings = document.getElementById("settings");
+const settingsForm = document.getElementById("settings-form");
+const difficultySelect = document.getElementById("difficulty");
 
 // List of words for game
 const words = [
